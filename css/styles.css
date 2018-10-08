@@ -151,7 +151,7 @@ nav h1 a {
   min-height: 380px;
   padding: 0 30px 25px;
   text-align: left;
-  width: 80%;
+  width: 50%;
 }
 #restaurants-list .restaurant-img {
   background-color: #ccc;
@@ -279,7 +279,7 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
-@media (max-width: 768px) {
+@media all and (max-width: 768px) {
   .inside #maincontent {
     display: flex;
     flex-wrap: wrap;
@@ -290,10 +290,10 @@ nav h1 a {
     width: 100%;
   }
   #restaurant-container, #reviews-container {
-    width: 100%;
+    width: 50%;
   }
   #breadcrumb {
-    width: 100%;
+    width: 50%;
     padding-left: 0;
     padding-right: 0;
     text-align: center;
