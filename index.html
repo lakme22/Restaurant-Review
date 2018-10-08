@@ -19,9 +19,10 @@
   </header>
 
   <main id="maincontent">
-    <section id="map-container">
-      <div id="map"></div>
-    </section>
+      <section id="map-container" aria-hidden="true" aria-labelledby="aria-map-description" role="application">
+          <div id="map" aria-hidden="true" aria-labelledby="aria-map-description" role="application"></div>
+          <label id="aria-map-description" class="aria-label">map user interface</label>
+        </section>
     <section>
       <div class="filter-options">
         <h2>Filter Results</h2>
