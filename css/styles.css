@@ -151,7 +151,7 @@ nav h1 a {
   min-height: 380px;
   padding: 0 30px 25px;
   text-align: left;
-  width: 50%;
+  width: 80%;
 }
 #restaurants-list .restaurant-img {
   background-color: #ccc;
@@ -290,10 +290,10 @@ nav h1 a {
     width: 100%;
   }
   #restaurant-container, #reviews-container {
-    width: 50%;
+    width: 100%;
   }
   #breadcrumb {
-    width: 50%;
+    width: 100%;
     padding-left: 0;
     padding-right: 0;
     text-align: center;
