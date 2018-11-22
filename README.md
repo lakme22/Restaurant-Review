@@ -28,5 +28,8 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
 
+### `UDACITY REVIEW`
 
+![1](https://user-images.githubusercontent.com/36790663/48882021-4b174780-ee3e-11e8-9bd1-5dfe91d762d2.PNG)
+![2](https://user-images.githubusercontent.com/36790663/48882022-4b174780-ee3e-11e8-94c5-7da5203df245.PNG)
 
